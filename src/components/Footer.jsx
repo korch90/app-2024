@@ -8,7 +8,7 @@ const Footer=()=>{
 return (
 <div>
 hmvnhnv
------Footer-----
+-----Footer--------
 <br />
 <NavLink to="/page1">to page 1</NavLink>
 <TodoList/>
