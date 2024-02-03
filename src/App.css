@@ -1,0 +1,19 @@
+li{
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+ul{
+  display: flex;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 200px;
+}
+.main{
+
+
+
+  box-sizing: border-box;
+
+}
